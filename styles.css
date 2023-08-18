@@ -1,2 +1,26 @@
+table{
+    width: 90vw;
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
 
-/* Your CSS Code here. */
+video,audio{
+    width: 50vw;
+}
+ol{
+    background-color: palegoldenrod;
+    width: 90vw;
+}
+li{
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
